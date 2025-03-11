@@ -1,2 +1,5 @@
 # Trabalho-de-IO
-Trabalho da uc de Investigação Operacional 2024/2025 da Universidade do Minho
+Trabalhos da unidade curricular de Investigação Operacional 2024/2025 da Universidade do Minho no curso de Licenciatura em Engenharia Informática.
+
+## TP1
+Resolução de um problema de empacotamento de contentores usando o modelo de fluxo de arcos
