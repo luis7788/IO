@@ -2,14 +2,14 @@
 
 Trabalhos realizados na unidade curricular de **Investigação Operacional** do curso de **Licenciatura em Engenharia Informática** na **Universidade do Minho** durante o ano letivo 2024/2025.
 
-## 📦 TP1 - Empacotamento de Contentores
+### 📦 TP1 - Empacotamento de Contentores
 
 Resolução de um problema de empacotamento de contentores utilizando o **modelo de fluxo de arcos**.
 
 🔗 [Enunciado](TP1/Enunciado-TP1.pdf)  
 📝 [Relatório](TP1/Relatório-TP1.pdf)
 
-## 🔁 TP2 - Fluxo Máximo em Redes
+### 🔁 TP2 - Fluxo Máximo em Redes
 
 Resolução de um problema de **maximização do fluxo** numa rede.
 
@@ -22,14 +22,14 @@ Resolução de um problema de **maximização do fluxo** numa rede.
 
 Coursework for the **Operational Research** class, academic year **2024/2025**, in the **Bachelor’s in Computer Engineering** at the **University of Minho**.
 
-## 📦 TP1 - Container Packing
+### 📦 TP1 - Container Packing
 
 Solution to a **container packing problem** using the **arc flow model**.
 
 🔗 [Assignment Description](TP1/Enunciado-TP1.pdf)  
 📝 [Report](TP1/Relatório-TP1.pdf)
 
-## 🔁 TP2 - Maximum Flow in a Network
+### 🔁 TP2 - Maximum Flow in a Network
 
 Solution to a **maximum flow problem** in a network.
 
